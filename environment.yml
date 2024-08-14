@@ -1,0 +1,19 @@
+name: 101python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipython
+  - jupyterlab
+  - notebook
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - seaborn  # for the titanic dataset
+  - numpy
+  - pandas
+  - pip
+  - uv
+  - scipy
+  - wget
+  - pip:
+    - jupyterlab-rise  # for jupyter notebook presentations
