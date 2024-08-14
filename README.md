@@ -12,7 +12,7 @@ The lessons are organized in four sections:
 
 ## Installation
 
-Clone the repository and install the required packages using the following commands:
+Clone the repository and install the required packages using the following commands (use `mamba` instead of `conda` if you have it installed):
 
 ```bash
 git clone https://github.com/SyracuseUniversity/ospo-workshop-computing101-3.git 
