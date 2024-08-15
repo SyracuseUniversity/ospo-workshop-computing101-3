@@ -16,7 +16,7 @@ Clone the repository and install the required packages using the following comma
 
 ```bash
 git clone https://github.com/SyracuseUniversity/ospo-workshop-computing101-3.git 
-cd 101python
+cd ospo-workshop-computing101-3
 
 conda env create -f environment.yml
 ```
